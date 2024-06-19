@@ -1,0 +1,13 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/Background.png","C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/bin/Windows/Content/Background.xnb","TextureProcessor","Texture2DContent",369683,4194389,0.375552
+"C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/Blue.png","C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/bin/Windows/Content/Blue.xnb","TextureProcessor","Texture2DContent",2752,16469,0.0040379
+"C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/Board.png","C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/bin/Windows/Content/Board.xnb","TextureProcessor","Texture2DContent",17174,4325461,0.1288528
+"C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/btn.png","C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/bin/Windows/Content/btn.xnb","TextureProcessor","Texture2DContent",10698,221781,0.0099466
+"C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/Credit.jpg","C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/bin/Windows/Content/Credit.xnb","TextureProcessor","Texture2DContent",149446,9437269,0.3718884
+"C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/Green.png","C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/bin/Windows/Content/Green.xnb","TextureProcessor","Texture2DContent",2766,16469,0.0052865
+"C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/HowToPlay.jpg","C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/bin/Windows/Content/HowToPlay.xnb","TextureProcessor","Texture2DContent",311607,9437269,0.276256
+"C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/Music.mp3","C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/bin/Windows/Content/Music.xnb","SongProcessor","SongContent",2753515,123,1.6519758
+"C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/Orange.png","C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/bin/Windows/Content/Orange.xnb","TextureProcessor","Texture2DContent",2749,16469,0.0039874
+"C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/Red.png","C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/bin/Windows/Content/Red.xnb","TextureProcessor","Texture2DContent",2067,16469,0.0041286
+"C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/RegularFont.spritefont","C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/bin/Windows/Content/RegularFont.xnb","LocalizedFontProcessor","SpriteFontContent",2494,21535,0.1546082
+"C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/TitleFont.spritefont","C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/bin/Windows/Content/TitleFont.xnb","LocalizedFontProcessor","SpriteFontContent",2496,21535,0.0210193

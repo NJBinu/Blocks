@@ -1,0 +1,13 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/karti/source/repos/Blocks/Blocks/Content/Background.png","C:/Users/karti/source/repos/Blocks/Blocks/Content/bin/Windows/Background.xnb","TextureProcessor","Texture2DContent",369683,4194389,0.3118303
+"C:/Users/karti/source/repos/Blocks/Blocks/Content/Blue.png","C:/Users/karti/source/repos/Blocks/Blocks/Content/bin/Windows/Blue.xnb","TextureProcessor","Texture2DContent",2752,16469,0.1919709
+"C:/Users/karti/source/repos/Blocks/Blocks/Content/Board.png","C:/Users/karti/source/repos/Blocks/Blocks/Content/bin/Windows/Board.xnb","TextureProcessor","Texture2DContent",17174,4325461,0.1484241
+"C:/Users/karti/source/repos/Blocks/Blocks/Content/btn.png","C:/Users/karti/source/repos/Blocks/Blocks/Content/bin/Windows/btn.xnb","TextureProcessor","Texture2DContent",10698,221781,0.0187575
+"C:/Users/karti/source/repos/Blocks/Blocks/Content/Credit.jpg","C:/Users/karti/source/repos/Blocks/Blocks/Content/bin/Windows/Credit.xnb","TextureProcessor","Texture2DContent",149446,9437269,0.2262767
+"C:/Users/karti/source/repos/Blocks/Blocks/Content/Green.png","C:/Users/karti/source/repos/Blocks/Blocks/Content/bin/Windows/Green.xnb","TextureProcessor","Texture2DContent",2766,16469,0.0028607
+"C:/Users/karti/source/repos/Blocks/Blocks/Content/HowToPlay.jpg","C:/Users/karti/source/repos/Blocks/Blocks/Content/bin/Windows/HowToPlay.xnb","TextureProcessor","Texture2DContent",311607,9437269,0.1482911
+"C:/Users/karti/source/repos/Blocks/Blocks/Content/Music.mp3","C:/Users/karti/source/repos/Blocks/Blocks/Content/bin/Windows/Music.xnb","SongProcessor","SongContent",2753515,123,0.652012
+"C:/Users/karti/source/repos/Blocks/Blocks/Content/Orange.png","C:/Users/karti/source/repos/Blocks/Blocks/Content/bin/Windows/Orange.xnb","TextureProcessor","Texture2DContent",2749,16469,0.0032825
+"C:/Users/karti/source/repos/Blocks/Blocks/Content/Red.png","C:/Users/karti/source/repos/Blocks/Blocks/Content/bin/Windows/Red.xnb","TextureProcessor","Texture2DContent",2067,16469,0.0040993
+"C:/Users/karti/source/repos/Blocks/Blocks/Content/RegularFont.spritefont","C:/Users/karti/source/repos/Blocks/Blocks/Content/bin/Windows/RegularFont.xnb","LocalizedFontProcessor","SpriteFontContent",2494,21535,0.135589
+"C:/Users/karti/source/repos/Blocks/Blocks/Content/TitleFont.spritefont","C:/Users/karti/source/repos/Blocks/Blocks/Content/bin/Windows/TitleFont.xnb","LocalizedFontProcessor","SpriteFontContent",2496,21535,0.0655999

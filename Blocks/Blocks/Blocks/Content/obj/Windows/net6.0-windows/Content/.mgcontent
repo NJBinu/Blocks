@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/Background.png</File>
+    <File>C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/Blue.png</File>
+    <File>C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/Board.png</File>
+    <File>C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/btn.png</File>
+    <File>C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/Credit.jpg</File>
+    <File>C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/Green.png</File>
+    <File>C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/HowToPlay.jpg</File>
+    <File>C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/Music.mp3</File>
+    <File>C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/Orange.png</File>
+    <File>C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/Red.png</File>
+    <File>C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/RegularFont.spritefont</File>
+    <File>C:/Users/parne/Downloads/Blocks/Blocks/Blocks/Content/TitleFont.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
